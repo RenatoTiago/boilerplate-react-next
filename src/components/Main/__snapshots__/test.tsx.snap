@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main/> should render the main 1`] = `
+<main
+  class="styles__Wrapper-gVBhw iziTas"
+>
+  <img
+    alt="Image descrito Next JS"
+    class="styles__Logo-bSiBeQ wldvi"
+    src="img/react-icon.svg"
+  />
+  <h1
+    class="styles__Title-cMjpFf fxohpK"
+  >
+     Boilerplate Front-End
+  </h1>
+  <h2
+    class="styles__Description-elAaux hrwMlQ"
+  >
+     
+    React JS, Nexts JS, Styled components, TypeScript,
+     
+  </h2>
+  <img
+    class="styles__Illustration-fySXif kkSSNd"
+    src="img/developer.svg"
+  />
+</main>
+`;
